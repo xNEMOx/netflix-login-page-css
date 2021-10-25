@@ -1,0 +1,129 @@
+.login-box {
+  position: absolute;
+  top: 18%;
+  left: 32%;
+  width: 450px;
+  height: 550px;
+  background-color: black;
+  border-radius: 10px;
+  -webkit-box-shadow: 5px 6px 12px 2px rgba(0,0,0,0.55); 
+  box-shadow: 5px 6px 12px 2px rgba(0,0,0,0.55);
+}
+
+
+.login-box h1 {
+  color: white;
+  position: absolute;
+  top: 10%;
+  left: 15%;
+  font-family: 'Poppins', sans-serif;
+}
+
+.login-box input[type="text"] {
+  color: white;
+  position: absolute;
+  background: #252525;
+  width: 330px;
+  height: 40px;
+	color: inherit;
+	border: none;
+  border-radius: 5px;
+	padding: 0;
+	font: inherit;
+	cursor: pointer;
+	outline: inherit;
+  top: 30%;
+  left: 15%;
+
+}
+
+
+.login-box input[type="password"] {
+  color: white;
+  position: absolute;
+  background: #252525;
+  width: 330px;
+  height: 40px;
+	color: inherit;
+	border: none;
+  border-radius: 5px;
+	padding: 0;
+	font: inherit;
+	cursor: pointer;
+	outline: inherit;
+  top: 43%;
+  left:15%;
+  
+}
+
+.login-box button {
+  position: absolute;
+  font-family: 'Poppins', sans-serif;
+  font-size: 16px;
+  background: #DD3B30;
+  top: 56%;
+  left:15%;
+  width: 330px;
+  height: 40px;
+	color: white;
+	border: none;
+  border-radius: 5px;
+	padding: 0;
+	cursor: pointer;
+	outline: inherit;
+  
+}
+
+.login-box button:hover {
+  background: #A3241B;
+}
+
+.login-box small {
+  position: absolute;
+  top: 65%;
+  left: 71%;
+  font-family: 'Poppins', sans-serif;
+  color: #5B595A;
+  
+}
+
+::placeHolder {
+  position: absolute;
+  top: 14%;
+  left: 10%;
+  font-family: 'Poppins', sans-serif;
+}
+
+
+
+
+.tag h1 {
+  font-family: 'Poppins', sans-serif;
+  color: black;
+}
+
+.tag h1:hover {
+  font-family: 'Poppins', sans-serif;
+  color: green;
+}
+
+.tag span {
+  color: red;
+}
+
+.tag span:hover {
+  color: black;
+}
+
+.tag a {
+  font-family: 'Poppins', sans-serif;
+  color: red;
+}
+
+small {
+  font-family: 'Poppins', sans-serif;
+  color: black;
+  position: absolute;
+  top: 85%;
+  left: 1%;
+}
