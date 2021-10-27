@@ -3,4 +3,6 @@ I made Netflix login page using HTML and CSS. ( no background image ). Let me kn
 
 LIVE DEMO: https://netflix-login-nemo.glitch.me
 
+Discord: Nemo#1819
+
 NOTES: ~I didnt use netflix's background image ~((( I didn't make this website for phishing)))
